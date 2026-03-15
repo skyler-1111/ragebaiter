@@ -6,11 +6,11 @@ it’s an opinion auditor. you type stuff, it tells you why you're wrong.
 **stuff it does**
 + vibecheck: tells you your "superiority quotient" (it's always low).
 
-+hater detection: if you talk trash about the dev or the site, the site tanks your score to 1% automatically.
++ hater detection: if you talk trash about the dev or the site, the site tanks your score to 1% automatically.
 
-+the truth: a button that spit facts you'll probably argue with.
++ the truth: a button that spit facts you'll probably argue with.
 
-+dispute: a button that does nothing but tell you you're wrong again.
++ dispute: a button that does nothing but tell you you're wrong again.
 
 **tech stack**
 1. HTML
